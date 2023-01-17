@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Disease-Metabolite Database</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="e8e8e8">
+        <tr>
+            <td align='center' class="top"><h1>Disease-Metabolite Database</h1></td>
+        </tr>
+    </table>
+    <table width="100%" border="0" height="600" cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="25%" bgcolor="52658f" class="left">
+                <div id="l">
+                    <div class="subtitle"><h2 class="big">What are you interested in?</h2></div>
+
+                    <div class="search">
+                        <li class="search"><input type="radio" name="search" value="disease">&emsp;Disease</li>
+                        <li class="search"><input type="radio" name="search" value="metabolite">&emsp;Metabolite</li>
+                        <li class="search"><input type="radio" name="search" value="pathway">&emsp;Pathway</li>
+                        <li class="search"><input type="radio" name="search" value="reaction">&emsp;Reaction</li>
+                    </div>
+                    
+                    <div class="input">
+                        <img class="search" src="src/search.svg">
+                        <input id="text" type="text" placeholder="Enter...">
+                    </div>
+                    <div class="button">
+                        <input id="button" type="button" value="Search!">
+                    </div>
+                </div>
+                
+            </td>
+            <td width="55%" bgcolor="f7f5e6" class="center" valign="top" align="center">
+                <div class="subtitle2"><h2 class="big">Outcome</h2></div>
+            </td>
+            <td wdith="20%" bgcolor="52658f" class="right" valign="top" align="center">
+                <div class="subtitle"><h2 class="big">Search History</h2></div>
+            </td>
+        </tr>
+    </table>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="333a56" class="bottom" height="150">
+        <tr>
+            <td width="50%"  class="bottom" valign="top">
+                <div class="subtitle3">
+                    <h2 class="small">Reference Databases</h2>
+                </div>
+                <div class="ref">
+                    <li>OMIM&emsp;<a href="https://www.omim.org"><img width="7%" src="src/OMIM.jpeg" alt="OMIM logo"></a></li>
+                    <li>HMDB&emsp;<a href="https://hmdb.ca"><img width="7%" src="src/HMDB.png" alt="HMDB logo"></a></li>
+                </div>
+            </td>
+            <td width="50%" class="bottom" valign="top">
+                <div class="subtitle3">
+                    <h2 class="small">Author</h2>
+                </div>
+                <div class="aut">
+                    <li><img src="src/github.svg" width="20px"><a class="github" href="https://github.com/bezel452/BIO3514">&emsp;https://github.com/bezel452/BIO3514</a></li>
+                    <li>Chongchen Pang, Chaoxian Wang, Yuchen Wang, Xiangyu Zhu</li>
+                </div>
+                
+            </td>
+        </tr>
+    </table>
+</body>
+ 
+</html>

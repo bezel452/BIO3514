@@ -1,0 +1,126 @@
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1
+{
+    font-size:2.3em;
+}
+h2.big
+{
+    font-size:1.8em;
+    text-align:center;
+}
+h2.small
+{
+    font-size:1.5em;
+}
+li
+{
+    list-style: none;
+}
+td.top
+{
+    color:#333a56;
+}
+td.left
+{
+    color:#f7f5e6;
+    vertical-align: top;
+}
+div.subtitle
+{
+    width:100%;
+    font-style:italic;
+}
+img.search
+{
+    width:35px;
+    float: left;
+    padding-right: 5px;
+}
+div.search
+{
+    font-size: 1.4em;
+    line-height: 200%;
+    float:left;
+    padding-left: 5%;
+    width:85%;
+    font-weight: bold;
+}
+div.input
+{
+    width:100%;
+    padding-left: 2%;
+    float:left;
+    padding-top: 5%;
+}
+div.button
+{
+    float:left;
+    width:100%;
+    padding-left: 33%;
+    padding-top: 10%;
+}
+#text
+{
+    width:80%;
+    height: 35px;
+    float: left;
+    border-radius: 0px;
+    border:0;
+    font-size: large;
+}
+#button
+{
+    float: left;
+    background-color: #333a56;
+    color:#f7f5e6;
+    box-sizing: content-box;
+    border:0;
+    height:30px;
+    width:80px;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 20px;
+}
+#button:hover
+{
+    background-color: #f7f5e6;
+    color:#333a56;
+}
+td.center
+{
+    color:#333a56;
+}
+td.right
+{
+    color:#f7f5e6;
+}
+div.subtitle3
+{
+    padding-left: 5%;
+    float:left;
+    width: 100%;
+}
+div.ref
+{
+    float:left;
+    padding-left: 5%;
+    padding-top:-10%;
+}
+div.aut
+{
+    float:left;
+    padding-left: 5%;
+}
+td.bottom
+{
+    color:#f7f5e6;
+}
+a.github
+{
+    text-decoration: none;
+    color:royalblue;
+}
