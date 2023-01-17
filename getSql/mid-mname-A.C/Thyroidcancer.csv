@@ -1,0 +1,15 @@
+Thyroid cancer ,,,,,,
+L-Fucose,HMDB0000174,C[C@@H]1O[C@@H](O)[C@@H](O)[C@H](O)[C@@H]1O,Blood,15.0 (0.0-30.0)uM,,15
+Docosahexaenoic acid,HMDB0002183,CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCC(O)=O,Urine,4.4 +/- 9.4uM,,4.4
+Docosapentaenoic acid (22n-6),HMDB0001976,CCCCC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CCC(O)=O,Urine,3.0 +/- 2.3uM,,3
+5a-Tetrahydrocorticosterone,HMDB0000449,[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@H](O)CC[C@]12C,Urine,0.028 +/- 0.018uM,,0.028
+Tetrahydrodeoxycorticosterone,HMDB0000879,[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@H](O)CC[C@]12C,Urine,0.0079 +/- 0.0056uM,,0.0079
+Androstenedione,HMDB0000053,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Urine,0.090 +/- 0.073uM,,0.09
+16a-Hydroxydehydroisoandrosterone,HMDB0000352,[H][C@@]12C[C@@H](O)C(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C,Urine,0.35 +/- 0.21uM,,0.35
+beta-Cortol,HMDB0005821,[H][C@@]12CC[C@](O)([C@H](O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CC[C@]2([H])C[C@H](O)CC[C@]12C,Urine,0.059 +/- 0.045uM,,0.059
+Tetrahydrodeoxycortisol,HMDB0005972,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@]2([H])C[C@H](O)CC[C@]12C,Urine,0.022 +/- 0.014uM,,0.022
+Linoleic acid,HMDB0000673,CCCCC\C=C/C\C=C/CCCCCCCC(O)=O,Urine,0.18 +/- 0.45uM,,0.18
+alpha-Linolenic acid,HMDB0001388,CC\C=C/C\C=C/C\C=C/CCCCCCCC(O)=O,Urine,0.49 +/- 0.46uM,,0.49
+Cadaverine,HMDB0002322,NCCCCCN,Urine,0.18 +/- 0.044uM,,0.18
+N8-Acetylspermidine,HMDB0002189,CC(=O)NCCCCNCCCN,Urine,0.88 +/- 0.14uM,,0.88
+N1-Acetylspermidine,HMDB0001276,CC(=O)NCCCNCCCCN,Urine,1.9 +/- 0.35uM,,1.9

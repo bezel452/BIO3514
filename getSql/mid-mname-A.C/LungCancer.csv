@@ -1,0 +1,43 @@
+Lung Cancer,mid,struct,ab_c,ab_c
+Trigonelline,HMDB0000875,C[N+]1=CC=CC(=C1)C([O-])=O,23 +/- 19uM,23
+Hypoxanthine,HMDB0000157,OC1=NC=NC2=C1NC=N2,6.8 +/- 4.8uM,6.8
+Acetic acid,HMDB0000042,CC(O)=O,53.0 +/- 71.0uM,53
+trans-Aconitic acid,HMDB0000958,OC(=O)C\C(=C/C(O)=O)C(O)=O,4.5 +/- 4.5uM,4.5
+Levoglucosan,HMDB0000640,[H][C@@]12OC[C@@H](O1)[C@@H](O)[C@H](O)[C@H]2O,4.6 +/- 7.1uM,4.6
+Mannitol,HMDB0000765,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,41.0 (0.0-486.0)uM,41
+Propylene glycol,HMDB0001881,C[C@@H](O)CO,2.0 (0.0-31.0)uM,2
+Sucrose,HMDB0000258,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,11 (0-159)uM,11
+D-Xylose,HMDB0000098,O[C@@H]1COC(O)[C@H](O)[C@H]1O,3.0 (0.0-17.0)uM,3
+Tartaric acid,HMDB0000956,O[C@H]([C@@H](O)C(O)=O)C(O)=O,5 (0-25)uM,5
+Ethanol,HMDB0000108,CCO,54.0 (0.0-661.0)uM,54
+1-Methylnicotinamide,HMDB0000699,C[N+]1=CC=CC(=C1)C(N)=O,3.0 (0.0-14.0)uM,3
+alpha-Hydroxyisobutyric acid,HMDB0000729,CC(C)(O)C(O)=O,5.0 (0.0-8.0)uM,5
+3-Hydroxyisovaleric acid,HMDB0000754,CC(C)(O)CC(O)=O,6.0 +/- 2.0uM,6
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,16.0 +/- 15.0uM,16
+Acetone,HMDB0001659,CC(C)=O,5.0 +/- 5.0uM,5
+Adipic acid,HMDB0000448,OC(=O)CCCCC(O)=O,2.0 (0.0-28.0)uM,2
+L-Alanine,HMDB0000161,C[C@H](N)C(O)=O,23 (10-55)uM,23
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,6.0 (0.0-16.0)uM,6
+L-Carnitine,HMDB0000062,C[N+](C)(C)C[C@H](O)CC([O-])=O,7.0 (0.0-30.0)uM,7
+Choline,HMDB0000097,C[N+](C)(C)CCO,3.0 (0.0-8.0)uM,3
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,268.0 (53.0-1111.0)uM,268
+Creatine,HMDB0000064,CN(CC(O)=O)C(N)=N,37.0 (0.0-197.0)uM,37
+Formic acid,HMDB0000142,OC=O,20.0 +/- 11.0uM,20
+Fumaric acid,HMDB0000134,OC(=O)\C=C\C(O)=O,0.7 (0.0-4.0)uM,0.7
+Glycine,HMDB0000123,NCC(O)=O,84.0 +/- 67.0uM,84
+Glycolic acid,HMDB0000115,OCC(O)=O,23.0 +/- 14.0uM,23
+Hippuric acid,HMDB0000714,OC(=O)CNC(=O)C1=CC=CC=C1,473.0 +/- 617.0uM,473
+Succinic acid,HMDB0000254,OC(=O)CCC(O)=O,9.0 +/- 6.0uM,9
+Taurine,HMDB0000251,NCCS(O)(=O)=O,67 +/- 50uM,67
+Trimethylamine N-oxide,HMDB0000925,C[N+](C)(C)[O-],78 +/- 71uM,78
+L-Valine,HMDB0000883,CC(C)[C@H](N)C(O)=O,3 (0-14)uM,3
+cis-Aconitic acid,HMDB0000072,OC(=O)C\C(=C\C(O)=O)C(O)=O,32.0 (0.0-70.0)uM,32
+Dehydroepiandrosterone sulfate,HMDB0001032,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OS(O)(=O)=O,Not Specified,
+Sphingosine,HMDB0000252,CCCCCCCCCCCCC\C=C\[C@@H](O)[C@@H](N)CO,Not Specified,
+Phosphorylcholine,HMDB0001565,C[N+](C)(C)CCOP(O)(O)=O,Not Specified,
+gamma-Linolenic acid,HMDB0003073,CCCCC\C=C/C\C=C/C\C=C/CCCCC(O)=O,Not Specified,
+alpha-Hydroxyisobutyric acid,HMDB0000729,CC(C)(O)C(O)=O,Not Specified,
+L-Serine,HMDB0000187,N[C@@H](CO)C(O)=O,Not Specified,
+Linoleic acid,HMDB0000673,CCCCC\C=C/C\C=C/CCCCCCCC(O)=O,Not Specified,
+Linoelaidic acid,HMDB0006270,CCCCC\C=C\C\C=C\CCCCCCCC(O)=O,Not Specified,
+Oleic acid,HMDB0000207,CCCCCCCC\C=C/CCCCCCCC(O)=O,Not Specified,

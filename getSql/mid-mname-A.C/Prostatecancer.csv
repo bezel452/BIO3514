@@ -1,0 +1,40 @@
+Prostate cancer,,,,,ab_c
+Selenomethionine,HMDB0003966,C[Se]CC[C@H](N)C(O)=O,Blood,0.303 +/- 0.099uM,0.303
+gamma-Tocopherol,HMDB0001492,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCC2=CC(O)=C(C)C(C)=C2O1,Blood,2.3 (2.2-2.43)uM,2.3
+Nonate,HMDB0011717,CCCCC[C@@H](CC(O)=O)C(O)=O,Blood,0.5 (0.0-1.0)uM,0.5
+4-Hydroxybenzaldehyde,HMDB0011718,OC1=CC=C(C=O)C=C1,Blood,0.5 (0.0-1.0)uM,0.5
+Orotidylic acid,HMDB0000218,O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(O)(O)=O)N1C(=O)NC(=O)C=C1C(O)=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Quinic acid,HMDB0003072,O[C@@H]1C[C@@](O)(C[C@@H](O)[C@H]1O)C(O)=O,Blood,0.5 (0.0-1.0)uM,0.5
+UDP-N-acetylmuraminate,HMDB0011720,CC(OC1C(O)C(CO)OC(OP(O)(=O)OP(O)(=O)OCC2OC(C(O)C2O)N2C=CC(=O)NC2=O)C1NC(C)=O)C(O)=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Deoxyuridine triphosphate,HMDB0001191,O[C@H]1C[C@@H](O[C@@H]1COP(O)(=O)OP(O)(=O)OP(O)(O)=O)N1C=CC(=O)NC1=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+5-Methylcytosine,HMDB0002894,CC1=C(N)NC(=O)N=C1,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+D-Alanyl-D-alanine,HMDB0003459,C[C@@H](N)C(=O)N[C@H](C)C(O)=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Bradykinin,HMDB0004246,N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)NCC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CO)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CCCNC(N)=N)C(O)=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Dimethylbenzimidazole,HMDB0003701,CC1=CC2=C(C=C1C)N=CN2,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Sorbitol-6-phosphate,HMDB0005831,OCC(O)C(O)C(O)C(O)COP(O)(O)=O,Blood,0.5 (0.0-1.0)uM,0.5
+Hydrocinnamic acid,HMDB0000764,OC(=O)CCC1=CC=CC=C1,Blood,0.5 (0.0-1.0)uM,0.5
+L-Gulonolactone,HMDB0003466,[H][C@@]1(OC(=O)[C@@H](O)[C@H]1O)[C@@H](O)CO,Blood,0.5 (0.0-1.0)uM,0.5
+Gluconolactone,HMDB0000150,OC[C@H]1OC(=O)[C@H](O)[C@@H](O)[C@@H]1O,Blood,0.5 (0.0-1.0)uM,0.5
+1-Kestose,HMDB0011729,OC[C@H]1O[C@@](CO)(OC[C@@]2(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@@H](O)[C@@H]1O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Melezitose,HMDB0011730,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H]1O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Glycyl-glycine,HMDB0011733,NCC(=O)NCC(O)=O,Blood,0.5 (0.0-1.0)uM,0.5
+Galactinol dihydrate,HMDB0011739,O.O.OC[C@H]1O[C@H](OC2[C@H](O)[C@@H](O)C(O)[C@@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H]1O,Blood,0.5 (0.0-1.0)uM,0.5
+Turanose,HMDB0011740,OC[C@@H](O)[C@@H](O)[C@H](O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(=O)CO,Blood,0.5 (0.0-1.0)uM,0.5
+Kojibiose,HMDB0011742,OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C=O,Blood,0.5 (0.0-1.0)uM,0.5
+L-Sorbose,HMDB0001266,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,Urine,0.5 (0.0-1.0)uM,0.5
+N-Formyl-L-methionine,HMDB0001015,CSCC[C@H](NC=O)C(O)=O,Urine,0.5 (0.0-1.0)uM,0.5
+N-Acetyl-L-glutamic acid,HMDB0001138,CC(=O)N[C@@H](CCC(O)=O)C(O)=O,Urine,0.5 (0.0-1.0)uM,0.5
+N-Acetyl-L-alanine,HMDB0000766,C[C@H](NC(C)=O)C(O)=O,Urine,0.5 (0.0-1.0)uM,0.5
+L-Allothreonine,HMDB0004041,C[C@H](O)[C@H](N)C(O)=O,Urine,0.5 (0.0-1.0)uM,0.5
+myo-Inositol 6-phosphate,HMDB0002985,O[C@@H]1[C@@H](O)[C@H](O)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]1O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+6-Hydroxynicotinic acid,HMDB0002658,OC(=O)C1=CN=C(O)C=C1,Urine,0.5 (0.0-1.0)uM,0.5
+L-Histidinol,HMDB0003431,N[C@H](CO)CC1=CNC=N1,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Methyldopa,HMDB0011754,C[C@](N)(CC1=CC=C(O)C(O)=C1)C(O)=O,Urine,0.5 (0.0-1.0)uM,0.5
+N-Acetyl-b-glucosaminylamine,HMDB0001104,CC(=O)N[C@H]1[C@H](N)O[C@H](CO)[C@@H](O)[C@@H]1O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Ureidosuccinic acid,HMDB0000828,NC(=O)N[C@@H](CC(O)=O)C(O)=O,Prostate Tissue,0.5 (0.0-1.0)uM,0.5
+Androstanediol,HMDB0000495,[H][C@@]12CCC(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@H](O)CC[C@]12C,Urine,0.10 +/- 0.04uM,0.1
+Shikimic acid,HMDB0003070,O[C@@H]1CC(=C[C@@H](O)[C@H]1O)C(O)=O,Urine,Not Specified,
+Cholesterol,HMDB0000067,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C,Blood,Not Specified,
+Sarcosine,HMDB0000271,CNCC(O)=O,Urine,Not Specified,
+Testosterone,HMDB0000234,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Blood,Not Specified,
+17a-Ethynylestradiol,HMDB0001926,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,Blood,Not Specified,

@@ -1,0 +1,73 @@
+Phenylketonuria,,,,ab_c
+Cysteinylglycine,HMDB0000078,N[C@@H](CS)C(=O)NCC(O)=O,6.0 (2.0-10.0)uM,6
+Phenylacetic acid,HMDB0000209,OC(=O)CC1=CC=CC=C1,55.6 +/- 87.3uM,55.6
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,571.0 - 1023.0uM,571
+L-Valine,HMDB0000883,CC(C)[C@H](N)C(O)=O,81.0 - 122.0uM,81
+17-Hydroxyprogesterone,HMDB0000374,[H][C@@]12CC[C@](O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,0.152 (0.0022- 0.302)uM,0.152
+L-Leucine,HMDB0000687,CC(C)C[C@H](N)C(O)=O,66.0 - 161.0uM,66
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,50.0 (40.0-60.0)uM,50
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,650.00 (300.00-1000.00)uM,650
+gamma-Glutamylphenylalanine,HMDB0000594,N[C@@H](CCC(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O)C(O)=O,43.00 (8.00-78.00)uM,43
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,146.6 +/- 244.6uM,146.6
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,149.7 +/- 208.5uM,149.7
+3-Hydroxyphenylacetic acid,HMDB0000440,OC(=O)CC1=CC(O)=CC=C1,0.67 +/- 2.94uM,0.67
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,36.53 +/- 39.59uM,36.53
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,12.6 +/- 36.00uM,12.6
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,24.00 +/- 30.5uM,24
+Phenylacetic acid,HMDB0000209,OC(=O)CC1=CC=CC=C1,55.00 +/- 87.00uM,55
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,8.00 +/- 9.00uM,8
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,0-82.9uM,82.9
+L-3-Phenyllactic acid,HMDB0000748,O[C@H](CC1=CC=CC=C1)C(O)=O,0-82.9uM,82.9
+Acetic acid,HMDB0000042,CC(O)=O,16.3 +/- 7.1uM,16.3
+Acetic acid,HMDB0000042,CC(O)=O,375.3 +/- 6.3uM,375.3
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,8.5 +/- 0.4uM,8.5
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,14.3 +/- 2.7uM,14.3
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,81.8 +/- 10.4uM,81.8
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,291.9 +/- 14.6uM,291.9
+Creatinine,HMDB0000562,CN1CC(=O)NC1=N,3938 +/- 279uM,3938
+Creatinine,HMDB0000562,CN1CC(=O)NC1=N,6112 +/- 305uM,6112
+Glycine,HMDB0000123,NCC(O)=O,82.2 +/- 4.1uM,82.2
+Glycine,HMDB0000123,NCC(O)=O,304.8 +/- 11.3uM,304.8
+Hippuric acid,HMDB0000714,OC(=O)CNC(=O)C1=CC=CC=C1,50.2 +/- 4.4uM,50.2
+L-Histidine,HMDB0000177,N[C@@H](CC1=CN=CN1)C(O)=O,62.6 +/- 12.3uM,62.6
+L-Histidine,HMDB0000177,N[C@@H](CC1=CN=CN1)C(O)=O,68 +/- 19.9uM,68
+N-Lactoylphenylalanine,HMDB0062175,C[C@H](O)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O,uM,
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,1210.734uM,1210.734
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,1004.909-1210.734uM,1004.909
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,44.586 +/- 66.136uM,44.586
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,46.0719 +/- 45.329uM,46.0719
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,47.558 +/- 69.108uM,47.558
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,4.903 +/- 2.358uM,4.903
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,5.0891 +/- 1.738uM,5.0891
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,7.447 +/- 3.848uM,7.447
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,253.238uM,253.238
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,414.763uM,414.763
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,7796.386uM,7796.386
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,31047.8uM,31047.8
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,255.518 +/- 250.00780uM,255.518
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,735.560 +/- 528.253uM,735.56
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,882.948 +/- 741.0699uM,882.948
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,15.404 +/- 14.833uM,15.404
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,4.564 +/- 1.369uM,4.564
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,9.128 +/- 4.450uM,9.128
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,151.592 +/- 98.0886uM,151.592
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,48.301 +/- 20.0636uM,48.301
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,97.346 +/- 59.448uM,97.346
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,14.119 +/- 5.722uM,14.119
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,34.182 +/- 22.293uM,34.182
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,35.669 +/- 20.0636uM,35.669
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,2.447 +/- 20.710uM,2.447
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,33.261 +/- 20.0820uM,33.261
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,33.261 +/- 26.985uM,33.261
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,139.639 +/- 122.882uM,139.639
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,74.474 +/- 94.334uM,74.474
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,75.0948 +/- 98.678uM,75.0948
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,31.297 +/- 11.566uM,31.297
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,361.277 +/- 500.0731uM,361.277
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,48.306 +/- 24.493uM,48.306
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,59.873 +/- 34.699uM,59.873
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,786.510 +/- 1020.557uM,786.51
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,796.0348 +/- 753.852uM,796.0348
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,14.895 +/- 9.930uM,14.895
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,7.447 +/- 5.151uM,7.447
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,9.309 +/- 4.779uM,9.309
