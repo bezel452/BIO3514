@@ -1,0 +1,115 @@
+disease,gene,MimGeneId
+obesity,DYRK1B,604556
+obesity,NR0B2,604630
+obesity,SDC3,186357
+obesity,POMC,176830
+obesity,GHRL,605353
+obesity,PPARG,601487
+obesity,CARTPT,602606
+obesity,ADRB2,109690
+obesity,ENPP1,173335
+obesity,ADRB3,109691
+obesity,UCP3,602044
+obesity,AGRP,602311
+
+diabetes,GPD2,138430
+diabetes,NEUROD1,601724
+diabetes,IRS1,147545
+diabetes,PPARG,601487
+diabetes,SLC2A2,138160
+diabetes,IGF2BP2,608289
+diabetes,WFS1,606201
+diabetes,NIDDM4,608036
+diabetes,HMGA1,600701
+diabetes,ENPP1,173335
+diabetes,IL6,147620
+diabetes,GCK,138079
+diabetes,PPP1R3A,600917
+diabetes,PAX4,167413
+diabetes,SLC30A8,611145
+diabetes,TCF7L2,602228
+diabetes,KCNJ11,600937
+diabetes,ABCC8,600509
+diabetes,MAPK8IP1,604641
+diabetes,MTNR1B,600804
+diabetes,HNF1A,142410
+diabetes,PDX1,600733
+diabetes,IRS2,600797
+diabetes,LIPC,151670
+diabetes,HNF1B,189907
+diabetes,RETN,605565
+diabetes,RETN,605565
+diabetes,AKT2,164731
+diabetes,HNF4A,600281
+diabetes,PTPN1,176885
+
+phenylketonuria,PAH,612349
+phenylketonuria,PTS,612719
+phenylketonuria,QDPR,612676
+
+prostate cancer,NULL,-1
+
+lung cancer,FASLG,134638
+lung cancer,CASP8,601763
+lung cancer,PIK3CA,171834
+lung cancer,IRF1,147575
+lung cancer,PRKN,602544
+lung cancer,EGFR,131550
+lung cancer,BRAF,164757
+lung cancer,MAP3K8,191195
+lung cancer,ERCC6,609413
+lung cancer,SLC22A1L,602631
+lung cancer,PPP2R1B,603113
+lung cancer,KRAS,190070
+lung cancer,ERBB2,164870
+lung cancer,CYP2A6,122720
+
+thyroid cancer,NKX2-1,600635
+thyroid cancer,HABP2,603924
+thyroid cancer,FOXE1,602617
+thyroid cancer,NRAS,164790
+thyroid cancer,MINPP1,605391
+thyroid cancer,HRAS,190020
+thyroid cancer,SRGAP1,606523
+thyroid cancer,RET,164761
+
+colorectal cancer,GALNT12,610290
+colorectal cancer,POLE,174762
+colorectal cancer,POLD,174761
+colorectal cancer,SMAD7,602932
+colorectal cancer,PLA2G2A,72411
+colorectal cancer,NRAS,164790
+colorectal cancer,BUB1,602452
+colorectal cancer,CTNNB1,116806
+colorectal cancer,PIK3CA,171834
+colorectal cancer,FGFR3,134934
+colorectal cancer,TLR2,603028
+colorectal cancer,APC,611731
+colorectal cancer,MCC,159350
+colorectal cancer,PTPN12,600079
+colorectal cancer,BRAF,164757
+colorectal cancer,DLC1,604258
+colorectal cancer,PDGFRL,604584
+colorectal cancer,RAD54B,604289
+colorectal cancer,PTPRJ,600925
+colorectal cancer,CCND1,168461
+colorectal cancer,MLH3,604395
+colorectal cancer,AKT1,164730
+colorectal cancer,BUB1B,602860
+colorectal cancer,TP53,191170
+colorectal cancer,FLCN,607273
+colorectal cancer,AXIN2,604025
+colorectal cancer,DCC,120470
+colorectal cancer,BAX,600040
+colorectal cancer,SRC,190090
+colorectal cancer,AURKA,603072
+colorectal cancer,CHEK2,604373
+colorectal cancer,EP300,602700
+
+ovarian cancer,CTNNB1,116806
+ovarian cancer,PIK3CA,171834
+ovarian cancer,PRKN,602544
+ovarian cancer,OPCML,600632
+ovarian cancer,AKT1,164730
+ovarian cancer,CDH1,192090
+ovarian cancer,ERBB2,164870
