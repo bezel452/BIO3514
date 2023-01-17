@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Disease-Metabolite Database</title>
     <link rel="stylesheet" href="index.css" />
+    
 </head>
 
 <body>
@@ -17,20 +18,23 @@
             <td width="25%" bgcolor="52658f" class="left">
                 <div id="l">
                     <div class="subtitle"><h2 class="big">What are you interested in?</h2></div>
-
                     <div class="search">
-                        <li class="search"><input type="radio" name="search" value="disease">&emsp;Disease</li>
-                        <li class="search"><input type="radio" name="search" value="metabolite">&emsp;Metabolite</li>
-                        <li class="search"><input type="radio" name="search" value="pathway">&emsp;Pathway</li>
-                        <li class="search"><input type="radio" name="search" value="reaction">&emsp;Reaction</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="disease" onclick="display_note(this.value)">&emsp;Disease</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="metabolite" onclick="display_note(this.value)">&emsp;Metabolite</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="gene" onclick="display_note(this.value)">&emsp;Gene</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="pathway" onclick="display_note(this.value)">&emsp;Pathway</li>
                     </div>
+                    
                     
                     <div class="input">
                         <img class="search" src="src/search.svg">
                         <input id="text" type="text" placeholder="Enter...">
                     </div>
                     <div class="button">
-                        <input id="button" type="button" value="Search!">
+                        <input id="button" type="button" value="Search!" onclick="history_store()">
+                    </div>
+                    <div id="note">
+                        
                     </div>
                 </div>
                 
@@ -40,21 +44,33 @@
             </td>
             <td wdith="20%" bgcolor="52658f" class="right" valign="top" align="center">
                 <div class="subtitle"><h2 class="big">Search History</h2></div>
+                <div class="history" id="divhis">
+                </div>
             </td>
         </tr>
     </table>
     <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="333a56" class="bottom" height="150">
         <tr>
-            <td width="50%"  class="bottom" valign="top">
+            <td width="33%"  class="bottom" valign="top">
+                <div class="subtitle3">
+                    <h2 class="small">Introdction</h2>
+                </div>
+                <div class="intro">
+                    <li>This database collects genes, metabolites, and related reactions associated with some crucial human diseases such as diabetes, obesity, phenylketonuria...</li>
+                </div>
+            </td>
+            
+            <td width="33%"  class="bottom" valign="top">
                 <div class="subtitle3">
                     <h2 class="small">Reference Databases</h2>
                 </div>
                 <div class="ref">
-                    <li>OMIM&emsp;<a href="https://www.omim.org"><img width="7%" src="src/OMIM.jpeg" alt="OMIM logo"></a></li>
-                    <li>HMDB&emsp;<a href="https://hmdb.ca"><img width="7%" src="src/HMDB.png" alt="HMDB logo"></a></li>
+                    <li><img width="7%" src="src/OMIM.jpeg" alt="OMIM logo"><a href="https://www.omim.org">&emsp;Online Mendelian Inheritance in Man</a></li>
+                    <li><img width="7%" src="src/HMDB.png" alt="HMDB logo"><a href="https://hmdb.ca">&emsp;The Human Metabolome Database</a></li>
                 </div>
             </td>
-            <td width="50%" class="bottom" valign="top">
+
+            <td width="33%" class="bottom" valign="top">
                 <div class="subtitle3">
                     <h2 class="small">Author</h2>
                 </div>
@@ -67,5 +83,5 @@
         </tr>
     </table>
 </body>
- 
+<script src="index.js"></script>
 </html>

@@ -10,10 +10,13 @@ h2.big
 {
     font-size:1.8em;
     text-align:center;
+    padding-left: 5%;
+    padding-right:5%;
 }
 h2.small
 {
     font-size:1.5em;
+    line-height: 50%;
 }
 li
 {
@@ -98,11 +101,22 @@ td.right
 {
     color:#f7f5e6;
 }
+div.history
+{
+    font-size:1.5em;
+    font-style: italic;
+}
 div.subtitle3
 {
     padding-left: 5%;
     float:left;
     width: 100%;
+}
+div.intro
+{
+    float:left;
+    padding-left: 5%;
+    padding-top:-10%;
 }
 div.ref
 {
@@ -114,13 +128,35 @@ div.aut
 {
     float:left;
     padding-left: 5%;
+    width:70%;
 }
 td.bottom
 {
     color:#f7f5e6;
 }
-a.github
+a
 {
     text-decoration: none;
+    color:#e8e8e8;
+}
+a.github
+{
     color:royalblue;
+}
+input.in
+{
+    size: 3px;
+}
+#note
+{
+    font-size: 1.2em;
+    float:left;
+    padding-left: 10%;
+    width:85%;
+    font-weight: bold;
+    font-style: italic;
+}
+h3.noteh3
+{
+    color:rgba(255, 88, 88, 0.928);
 }
