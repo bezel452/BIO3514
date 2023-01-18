@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <title>Disease-Metabolite Database</title>
-    <link rel="stylesheet" href="index.css" />
-    
+    <link rel="stylesheet" href="index.css"/>
+    <script src="cytoscape.min.js"></script>
 </head>
 
 <body>
@@ -17,12 +17,12 @@
         <tr>
             <td width="25%" bgcolor="52658f" class="left">
                 <div id="l">
-                    <div class="subtitle"><h2 class="big">What are you interested in?</h2></div>
+                    <div class="subtitle"><h2 class="big" style="text-decoration: underline;">What are you interested in?</h2></div>
                     <div class="search">
-                        <li class="search"><input class="in" type="radio" name="search" value="disease" onclick="display_note(this.value)">&emsp;Disease</li>
-                        <li class="search"><input class="in" type="radio" name="search" value="metabolite" onclick="display_note(this.value)">&emsp;Metabolite</li>
-                        <li class="search"><input class="in" type="radio" name="search" value="gene" onclick="display_note(this.value)">&emsp;Gene</li>
-                        <li class="search"><input class="in" type="radio" name="search" value="pathway" onclick="display_note(this.value)">&emsp;Pathway</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="disease" id="disease" onclick="display_note(this.value)">&emsp;Disease</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="metabolite" id="metabolite" onclick="display_note(this.value)">&emsp;Metabolite</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="gene" id="gene" onclick="display_note(this.value)">&emsp;Gene</li>
+                        <li class="search"><input class="in" type="radio" name="search" value="pathway" id="pathway" onclick="display_note(this.value)">&emsp;Pathway</li>
                     </div>
                     
                     
@@ -31,7 +31,7 @@
                         <input id="text" type="text" placeholder="Enter...">
                     </div>
                     <div class="button">
-                        <input id="button" type="button" value="Search!" onclick="history_store()">
+                        <input id="button" type="button" value="Search!" onclick="history_store();display()">
                     </div>
                     <div id="note">
                         
@@ -40,7 +40,10 @@
                 
             </td>
             <td width="55%" bgcolor="f7f5e6" class="center" valign="top" align="center">
-                <div class="subtitle2"><h2 class="big">Outcome</h2></div>
+                <div class="outcome">
+                    <div class="subtitle2"><h2 class="big">Outcome</h2></div>
+                    <div id="error"></div>
+                </div>
             </td>
             <td wdith="20%" bgcolor="52658f" class="right" valign="top" align="center">
                 <div class="subtitle"><h2 class="big">Search History</h2></div>
@@ -82,6 +85,10 @@
             </td>
         </tr>
     </table>
+    <div id="cy">
+                        
+    </div>
 </body>
 <script src="index.js"></script>
+<script src="cy.js"></script>
 </html>

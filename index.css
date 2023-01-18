@@ -105,6 +105,8 @@ div.history
 {
     font-size:1.5em;
     font-style: italic;
+    overflow-y: auto;
+    height:80%;
 }
 div.subtitle3
 {
@@ -159,4 +161,19 @@ input.in
 h3.noteh3
 {
     color:rgba(255, 88, 88, 0.928);
+}
+#cy
+{
+    height:600px;
+    width:600px;
+    top:-720px;
+    left:400px;
+    display: block;
+}
+#error
+{
+    color:rgba(255, 88, 88, 0.928);
+    font-style: italic;
+    font-weight: bolder;
+    font-size:1.5em;
 }

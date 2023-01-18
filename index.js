@@ -65,7 +65,7 @@ function display_note(value)
         h3.className = "noteh3"
         li.className = "noteli"
         var node1 = document.createTextNode("Note:");    //创建一个文本结点
-        var node2 = document.createTextNode("Please input a KEGG id");
+        var node2 = document.createTextNode("Please input a disease name");
         h3.appendChild(node1);   //把文本结点加到li中
         li.appendChild(node2);
         var element = document.getElementById("note");    //得到已知元素
