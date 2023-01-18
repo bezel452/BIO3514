@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def flag(d_name: str):
-    con = pymysql.connect(host='192.168.56.101', port=3306, user='root', password='bio4348', database='project', charset='utf8')
+    con = pymysql.connect(host='xxx.xxx.xxx.xxx', port=3306, user='xxx', password='xxxxx', database='project', charset='utf8')
     cur = con.cursor()
     sql = "SELECT DISTINCT m_id, ab_c FROM meta_dis WHERE d_name='" + d_name + "'"
     cur.execute(sql)
@@ -34,7 +34,7 @@ def flag(d_name: str):
     return ans
 
 def diff():
-    con = pymysql.connect(host='192.168.56.101', port=3306, user='root', password='bio4348', database='project', charset='utf8')
+    con = pymysql.connect(host='xxx.xxx.xxx.xxx', port=3306, user='xxx', password='xxxxx', database='project', charset='utf8')
     cur = con.cursor()
     sql = "SELECT * FROM disease"
     cur.execute(sql)
