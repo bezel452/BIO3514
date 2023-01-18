@@ -1,0 +1,14 @@
+Ovarian cancer
+1-Methyladenosine,HMDB0003331,CN1C=NC2=C(N=CN2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C1=N,Blood,0.0860 +/- 0.0095uM,Abnormal,Adult (>18 years old),Female
+2-Methoxyestradiol,HMDB0000405,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C(OC)=C3,Blood,0.0010 (0.0033-0.0210)uM,Abnormal,Adult (>18 years old),Female
+L-Tryptophan,HMDB0000929,N[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+LysoPC(14:0/0:0),HMDB0010379,CCCCCCCCCCCCCC(=O)OC[C@@H](O)COP([O-])(=O)OCC[N+](C)(C)C,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+2-Piperidinone,HMDB0011749,O=C1CCCCN1,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+1-Methyladenosine,HMDB0003331,CN1C=NC2=C(N=CN2[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)C1=N,Urine,Not Specified,Abnormal,Adult (>18 years old),Female
+3-Methyluridine,HMDB0004813,CN1C(=O)C=CN(C2OC(CO)C(O)C2O)C1=O,Urine,Not Specified,Abnormal,Adult (>18 years old),Female
+Androstenedione,HMDB0000053,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Urine,Not Specified,Abnormal,Adult (>18 years old),Female
+Cortisone,HMDB0002802,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+Cer(d18:1/16:0),HMDB0004949,[H][C@@](CO)(NC(=O)CCCCCCCCCCCCCCC)[C@H](O)\C=C\CCCCCCCCCCCCC,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+"LysoPE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",HMDB0011526,[H][C@@](O)(COC(=O)CC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC)COP(O)(=O)OCCN,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+3-Hydroxydodecanedioic acid,HMDB0000413,OC(CCCCCCCCC(O)=O)CC(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Female
+"PI(20:4(8Z,11Z,14Z,17Z)/18:1(11Z))",HMDB0009901,[H][C@@](COC(=O)CCCCCC\C=C/C\C=C/C\C=C/C\C=C/CC)(COP(O)(=O)O[C@H]1C(O)C(O)C(O)[C@@H](O)C1O)OC(=O)CCCCCCCCC\C=C/CCCCCC,Blood,Not Specified,Abnormal,Adult (>18 years old),Female

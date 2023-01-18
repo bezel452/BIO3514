@@ -1,0 +1,73 @@
+Phenylketonuria
+Cysteinylglycine,HMDB0000078,N[C@@H](CS)C(=O)NCC(O)=O,Blood,6.0 (2.0-10.0)uM,Abnormal,Adult (>18 years old),Both
+Phenylacetic acid,HMDB0000209,OC(=O)CC1=CC=CC=C1,Urine,55.6 +/- 87.3uM,Abnormal,Infant (0-1 year old),Both
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,Blood,571.0 - 1023.0uM,Abnormal,Newborn (0-30 days old),Both
+L-Valine,HMDB0000883,CC(C)[C@H](N)C(O)=O,Blood,81.0 - 122.0uM,Abnormal,Newborn (0-30 days old),Both
+17-Hydroxyprogesterone,HMDB0000374,[H][C@@]12CC[C@](O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Blood,0.152 (0.0022- 0.302)uM,Abnormal,Adult (>18 years old),Both
+L-Leucine,HMDB0000687,CC(C)C[C@H](N)C(O)=O,Blood,66.0 - 161.0uM,Abnormal,Newborn (0-30 days old),Both
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Blood,50.0 (40.0-60.0)uM,Abnormal,Newborn (0-30 days old),Both
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,650.00 (300.00-1000.00)uM,Abnormal,Newborn (0-30 days old),Both
+gamma-Glutamylphenylalanine,HMDB0000594,N[C@@H](CCC(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O)C(O)=O,Urine,43.00 (8.00-78.00)uM,Abnormal,Newborn (0-30 days old),Both
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,146.6 +/- 244.6uM,Abnormal,Newborn (0-30 days old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,149.7 +/- 208.5uM,Abnormal,Newborn (0-30 days old),Both
+3-Hydroxyphenylacetic acid,HMDB0000440,OC(=O)CC1=CC(O)=CC=C1,Urine,0.67 +/- 2.94uM,Abnormal,Newborn (0-30 days old),Both
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,Urine,36.53 +/- 39.59uM,Abnormal,Newborn (0-30 days old),Both
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,Urine,12.6 +/- 36.00uM,Abnormal,Newborn (0-30 days old),Both
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,Urine,24.00 +/- 30.5uM,Abnormal,Newborn (0-30 days old),Both
+Phenylacetic acid,HMDB0000209,OC(=O)CC1=CC=CC=C1,Urine,55.00 +/- 87.00uM,Abnormal,Newborn (0-30 days old),Both
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,Urine,8.00 +/- 9.00uM,Abnormal,Newborn (0-30 days old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Blood,0-82.9uM,Abnormal,Children (1-13 years old),Both
+L-3-Phenyllactic acid,HMDB0000748,O[C@H](CC1=CC=CC=C1)C(O)=O,Blood,0-82.9uM,Abnormal,Children (1-13 years old),Both
+Acetic acid,HMDB0000042,CC(O)=O,Urine,16.3 +/- 7.1uM,Abnormal,Adult (>18 years old),Both
+Acetic acid,HMDB0000042,CC(O)=O,Urine,375.3 +/- 6.3uM,Abnormal,Adult (>18 years old),Both
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,Urine,8.5 +/- 0.4uM,Abnormal,Adult (>18 years old),Both
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,Urine,14.3 +/- 2.7uM,Abnormal,Adult (>18 years old),Both
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,Urine,81.8 +/- 10.4uM,Abnormal,Adult (>18 years old),Both
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,Urine,291.9 +/- 14.6uM,Abnormal,Adult (>18 years old),Both
+Creatinine,HMDB0000562,CN1CC(=O)NC1=N,Urine,3938 +/- 279uM,Abnormal,Adult (>18 years old),Both
+Creatinine,HMDB0000562,CN1CC(=O)NC1=N,Urine,6112 +/- 305uM,Abnormal,Adult (>18 years old),Both
+Glycine,HMDB0000123,NCC(O)=O,Urine,82.2 +/- 4.1uM,Abnormal,Adult (>18 years old),Both
+Glycine,HMDB0000123,NCC(O)=O,Urine,304.8 +/- 11.3uM,Abnormal,Adult (>18 years old),Both
+Hippuric acid,HMDB0000714,OC(=O)CNC(=O)C1=CC=CC=C1,Urine,50.2 +/- 4.4uM,Abnormal,Adult (>18 years old),Both
+L-Histidine,HMDB0000177,N[C@@H](CC1=CN=CN1)C(O)=O,Urine,62.6 +/- 12.3uM,Abnormal,Adult (>18 years old),Both
+L-Histidine,HMDB0000177,N[C@@H](CC1=CN=CN1)C(O)=O,Urine,68 +/- 19.9uM,Abnormal,Adult (>18 years old),Both
+N-Lactoylphenylalanine,HMDB0062175,C[C@H](O)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O,Blood,uM,Abnormal,Adult (>18 years old),Not Specified
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,Blood,1210.734uM,Abnormal,Infant (0-1 year old),Male
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,Blood,1004.909-1210.734uM,Abnormal,Children (1 - 13 years old),Male
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,Urine,44.586 +/- 66.136uM,Abnormal,Children (1-13 years old),Both
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,Urine,46.0719 +/- 45.329uM,Abnormal,Children (1-13 years old),Both
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,Urine,47.558 +/- 69.108uM,Abnormal,Children (1-13 years old),Both
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,Urine,4.903 +/- 2.358uM,Abnormal,Children (1-13 years old),Both
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,Urine,5.0891 +/- 1.738uM,Abnormal,Children (1-13 years old),Both
+Homovanillic acid,HMDB0000118,COC1=C(O)C=CC(CC(O)=O)=C1,Urine,7.447 +/- 3.848uM,Abnormal,Children (1-13 years old),Both
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,Urine,253.238uM,Abnormal,Children (1 - 13 years old),Male
+L-Phenylalanine,HMDB0000159,N[C@@H](CC1=CC=CC=C1)C(O)=O,Urine,414.763uM,Abnormal,Infant (0-1 year old),Male
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,7796.386uM,Abnormal,Infant (0-1 year old),Male
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,31047.8uM,Abnormal,Children (1 - 13 years old),Male
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,255.518 +/- 250.00780uM,Abnormal,Children (1-13 years old),Both
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,735.560 +/- 528.253uM,Abnormal,Children (1-13 years old),Both
+Phenylpyruvic acid,HMDB0000205,OC(=O)C(=O)CC1=CC=CC=C1,Urine,882.948 +/- 741.0699uM,Abnormal,Children (1-13 years old),Both
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,Urine,15.404 +/- 14.833uM,Abnormal,Children (1-13 years old),Both
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,Urine,4.564 +/- 1.369uM,Abnormal,Children (1-13 years old),Both
+Vanillylmandelic acid,HMDB0000291,COC1=C(O)C=CC(=C1)[C@H](O)C(O)=O,Urine,9.128 +/- 4.450uM,Abnormal,Children (1-13 years old),Both
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,Urine,151.592 +/- 98.0886uM,Abnormal,Children (1-13 years old),Both
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,Urine,48.301 +/- 20.0636uM,Abnormal,Children (1-13 years old),Both
+ortho-Hydroxyphenylacetic acid,HMDB0000669,OC(=O)CC1=C(O)C=CC=C1,Urine,97.346 +/- 59.448uM,Abnormal,Children (1-13 years old),Both
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,Urine,14.119 +/- 5.722uM,Abnormal,Children (1-13 years old),Both
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,Urine,34.182 +/- 22.293uM,Abnormal,Children (1-13 years old),Both
+Mandelic acid,HMDB0000703,O[C@H](C(O)=O)C1=CC=CC=C1,Urine,35.669 +/- 20.0636uM,Abnormal,Children (1-13 years old),Both
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,Urine,2.447 +/- 20.710uM,Abnormal,Children (1-13 years old),Both
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,Urine,33.261 +/- 20.0820uM,Abnormal,Children (1-13 years old),Both
+4-Hydroxyphenylpyruvic acid,HMDB0000707,OC(=O)C(=O)CC1=CC=C(O)C=C1,Urine,33.261 +/- 26.985uM,Abnormal,Children (1-13 years old),Both
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,Urine,139.639 +/- 122.882uM,Abnormal,Children (1-13 years old),Both
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,Urine,74.474 +/- 94.334uM,Abnormal,Children (1-13 years old),Both
+Hydroxyphenyllactic acid,HMDB0000755,OC(CC1=CC=C(O)C=C1)C(O)=O,Urine,75.0948 +/- 98.678uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,31.297 +/- 11.566uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,361.277 +/- 500.0731uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,48.306 +/- 24.493uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,59.873 +/- 34.699uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,786.510 +/- 1020.557uM,Abnormal,Children (1-13 years old),Both
+Phenyllactic acid,HMDB0000779,OC(CC1=CC=CC=C1)C(O)=O,Urine,796.0348 +/- 753.852uM,Abnormal,Children (1-13 years old),Both
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,Urine,14.895 +/- 9.930uM,Abnormal,Children (1-13 years old),Both
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,Urine,7.447 +/- 5.151uM,Abnormal,Children (1-13 years old),Both
+Meta-hydroxyphenylhydracrylic Acid,HMDB0062595,OCC(C(O)=O)C1=CC(O)=CC=C1,Urine,9.309 +/- 4.779uM,Abnormal,Children (1-13 years old),Both

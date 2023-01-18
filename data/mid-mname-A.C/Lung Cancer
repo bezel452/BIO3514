@@ -1,0 +1,43 @@
+Lung Cancer
+Trigonelline,HMDB0000875,C[N+]1=CC=CC(=C1)C([O-])=O,Urine,23 +/- 19uM,Abnormal,Not Specified,Both
+Hypoxanthine,HMDB0000157,OC1=NC=NC2=C1NC=N2,Urine,6.8 +/- 4.8uM,Abnormal,Not Specified,Both
+Acetic acid,HMDB0000042,CC(O)=O,Urine,53.0 +/- 71.0uM,Abnormal,Not Specified,Both
+trans-Aconitic acid,HMDB0000958,OC(=O)C\C(=C/C(O)=O)C(O)=O,Urine,4.5 +/- 4.5uM,Abnormal,Not Specified,Both
+Levoglucosan,HMDB0000640,[H][C@@]12OC[C@@H](O1)[C@@H](O)[C@H](O)[C@H]2O,Urine,4.6 +/- 7.1uM,Abnormal,Not Specified,Both
+Mannitol,HMDB0000765,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,Urine,41.0 (0.0-486.0)uM,Abnormal,Not Specified,Both
+Propylene glycol,HMDB0001881,C[C@@H](O)CO,Urine,2.0 (0.0-31.0)uM,Abnormal,Not Specified,Both
+Sucrose,HMDB0000258,OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,Urine,11 (0-159)uM,Abnormal,Not Specified,Both
+D-Xylose,HMDB0000098,O[C@@H]1COC(O)[C@H](O)[C@H]1O,Urine,3.0 (0.0-17.0)uM,Abnormal,Not Specified,Both
+Tartaric acid,HMDB0000956,O[C@H]([C@@H](O)C(O)=O)C(O)=O,Urine,5 (0-25)uM,Abnormal,Not Specified,Both
+Ethanol,HMDB0000108,CCO,Urine,54.0 (0.0-661.0)uM,Abnormal,Not Specified,Both
+1-Methylnicotinamide,HMDB0000699,C[N+]1=CC=CC(=C1)C(N)=O,Urine,3.0 (0.0-14.0)uM,Abnormal,Adult (>18 years old),Both
+alpha-Hydroxyisobutyric acid,HMDB0000729,CC(C)(O)C(O)=O,Urine,5.0 (0.0-8.0)uM,Abnormal,Not Specified,Both
+3-Hydroxyisovaleric acid,HMDB0000754,CC(C)(O)CC(O)=O,Urine,6.0 +/- 2.0uM,Abnormal,Adult (>18 years old),Both
+p-Hydroxyphenylacetic acid,HMDB0000020,OC(=O)CC1=CC=C(O)C=C1,Urine,16.0 +/- 15.0uM,Abnormal,Not Specified,Both
+Acetone,HMDB0001659,CC(C)=O,Urine,5.0 +/- 5.0uM,Abnormal,Adult (>18 years old),Both
+Adipic acid,HMDB0000448,OC(=O)CCCCC(O)=O,Urine,2.0 (0.0-28.0)uM,Abnormal,Not Specified,Both
+L-Alanine,HMDB0000161,C[C@H](N)C(O)=O,Urine,23 (10-55)uM,Abnormal,Not Specified,Both
+Betaine,HMDB0000043,C[N+](C)(C)CC(O)=O,Urine,6.0 (0.0-16.0)uM,Abnormal,Adult (>18 years old),Both
+L-Carnitine,HMDB0000062,C[N+](C)(C)C[C@H](O)CC([O-])=O,Urine,7.0 (0.0-30.0)uM,Abnormal,Not Specified,Both
+Choline,HMDB0000097,C[N+](C)(C)CCO,Urine,3.0 (0.0-8.0)uM,Abnormal,Not Specified,Both
+Citric acid,HMDB0000094,OC(=O)CC(O)(CC(O)=O)C(O)=O,Urine,268.0 (53.0-1111.0)uM,Abnormal,Not Specified,Both
+Creatine,HMDB0000064,CN(CC(O)=O)C(N)=N,Urine,37.0 (0.0-197.0)uM,Abnormal,Not Specified,Both
+Formic acid,HMDB0000142,OC=O,Urine,20.0 +/- 11.0uM,Abnormal,Adult (>18 years old),Both
+Fumaric acid,HMDB0000134,OC(=O)\C=C\C(O)=O,Urine,0.7 (0.0-4.0)uM,Abnormal,Adult (>18 years old),Both
+Glycine,HMDB0000123,NCC(O)=O,Urine,84.0 +/- 67.0uM,Abnormal,Adult (>18 years old),Both
+Glycolic acid,HMDB0000115,OCC(O)=O,Urine,23.0 +/- 14.0uM,Abnormal,Adult (>18 years old),Both
+Hippuric acid,HMDB0000714,OC(=O)CNC(=O)C1=CC=CC=C1,Urine,473.0 +/- 617.0uM,Abnormal,Adult (>18 years old),Both
+Succinic acid,HMDB0000254,OC(=O)CCC(O)=O,Urine,9.0 +/- 6.0uM,Abnormal,Adult (>18 years old),Both
+Taurine,HMDB0000251,NCCS(O)(=O)=O,Urine,67 +/- 50uM,Abnormal,Adult (>18 years old),Both
+Trimethylamine N-oxide,HMDB0000925,C[N+](C)(C)[O-],Urine,78 +/- 71uM,Abnormal,Adult (>18 years old),Both
+L-Valine,HMDB0000883,CC(C)[C@H](N)C(O)=O,Urine,3 (0-14)uM,Abnormal,Adult (>18 years old),Both
+cis-Aconitic acid,HMDB0000072,OC(=O)C\C(=C\C(O)=O)C(O)=O,Urine,32.0 (0.0-70.0)uM,Abnormal,Adult (>18 years old),Both
+Dehydroepiandrosterone sulfate,HMDB0001032,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OS(O)(=O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+Sphingosine,HMDB0000252,CCCCCCCCCCCCC\C=C\[C@@H](O)[C@@H](N)CO,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+Phosphorylcholine,HMDB0001565,C[N+](C)(C)CCOP(O)(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+gamma-Linolenic acid,HMDB0003073,CCCCC\C=C/C\C=C/C\C=C/CCCCC(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+alpha-Hydroxyisobutyric acid,HMDB0000729,CC(C)(O)C(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+L-Serine,HMDB0000187,N[C@@H](CO)C(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+Linoleic acid,HMDB0000673,CCCCC\C=C/C\C=C/CCCCCCCC(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+Linoelaidic acid,HMDB0006270,CCCCC\C=C\C\C=C\CCCCCCCC(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
+Oleic acid,HMDB0000207,CCCCCCCC\C=C/CCCCCCCC(O)=O,Blood,Not Specified,Abnormal,Adult (>18 years old),Both
