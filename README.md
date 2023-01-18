@@ -1,8 +1,7 @@
 # 疾病相关的代谢组信息数据库
 
-**Group 2：逄崇宸、王超贤、王宇尘、朱翔宇**
+**Group 2：逄崇宸(Thothocc)、王超贤(Marsjoker)、王宇尘(MrWangOnDongChuanRd)、朱翔宇(bezel452)**
 
-[toc]
 
 ### 1.项目背景
 
