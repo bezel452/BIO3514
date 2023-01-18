@@ -177,3 +177,8 @@ h3.noteh3
     font-weight: bolder;
     font-size:1.5em;
 }
+div.content
+{
+    height:450px;
+    overflow-y: auto;
+}

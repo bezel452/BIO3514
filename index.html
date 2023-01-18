@@ -31,10 +31,14 @@
                         <input id="text" type="text" placeholder="Enter...">
                     </div>
                     <div class="button">
-                        <input id="button" type="button" value="Search!" onclick="history_store();display()">
+                        <input id="button" type="button" value="Search!" onclick="history_store();display_pathway();display_disease();display_metabolite();display_gene()">
                     </div>
+                    
                     <div id="note">
-                        
+                    
+                    </div>
+                    <div class="button">
+                        <input id="button" type="button" value="Analyze" onclick="diff()">
                     </div>
                 </div>
                 
@@ -43,6 +47,7 @@
                 <div class="outcome">
                     <div class="subtitle2"><h2 class="big">Outcome</h2></div>
                     <div id="error"></div>
+                    <div class="content" id="content"></div>
                 </div>
             </td>
             <td wdith="20%" bgcolor="52658f" class="right" valign="top" align="center">
