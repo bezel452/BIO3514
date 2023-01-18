@@ -4,7 +4,7 @@ import numpy as np
 
 
 def disease(d_name: str):
-    con = pymysql.connect(host='192.168.56.101', port=3306, user='root', password='bio4348', database='project', charset='utf8')
+    con = pymysql.connect(host='192.168.56.101', port=3306, user='xxxx', password='1111111', database='project', charset='utf8')
     cur = con.cursor()
     sql = "SELECT g_name FROM dis_gen WHERE d_name='" + d_name + "'"
     cur.execute(sql)
@@ -38,7 +38,7 @@ def disease(d_name: str):
     return res1, res2, res3
 
 def gene(g_name: str):
-    con = pymysql.connect(host='192.168.56.101', port=3306, user='root', password='bio4348', database='project', charset='utf8')
+    con = pymysql.connect(host='192.168.56.101', port=3306, user='xxxx', password='1111111', database='project', charset='utf8')
     cur = con.cursor()
     sql = "SELECT d_name FROM dis_gen WHERE g_name='" + g_name + "'"
     cur.execute(sql)
@@ -78,7 +78,7 @@ def gene(g_name: str):
     return res1, res2, res3
 
 def metabolite(m_id: str):
-    con = pymysql.connect(host='192.168.56.101', port=3306, user='root', password='bio4348', database='project', charset='utf8')
+    con = pymysql.connect(host='192.168.56.101', port=3306, user='xxxx', password='1111111', database='project', charset='utf8')
     cur = con.cursor()
     sql = "SELECT d_name FROM meta_dis WHERE m_id='" + m_id + "'"
     cur.execute(sql)
