@@ -34,14 +34,6 @@
 
 我们使用了MySQL数据库，并借助Navicat远程连接数据库软件进行管理，采用第三范式的标准对数据库进行设计。如图1所示，数据库包括gene、dis_gen、disease、reaction、metabolite、meta_dis数据表，用来存储基因、代谢物、疾病、反应等元数据，并用关系表表征了基因与疾病、代谢物与疾病、代谢物与反应的关系。
 
-![image-20230118203954691](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20230118203954691.png)
-
-图1 数据库结构展示
-
- 
-
- 
-
 ### 4.功能
 
 **4.1数据库Web界面设计**
