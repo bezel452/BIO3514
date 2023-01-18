@@ -1,3 +1,5 @@
+//Author:王宇尘
+//Date:2023/1/18
 function history_store()
     {
         var last = document.getElementById("last");
@@ -78,6 +80,7 @@ function display_disease()
 {
     document.getElementById("content").innerHTML='';
     document.getElementById("error").innerHTML='';
+    document.getElementById("cy").innerHTML='';
     if(document.getElementById("disease").checked)
     {
         var x = document.getElementById("text").value;
@@ -213,6 +216,7 @@ function display_metabolite()
 {
     document.getElementById("content").innerHTML='';
     document.getElementById("error").innerHTML='';
+    document.getElementById("cy").innerHTML='';
     if(document.getElementById("metabolite").checked)
     {
         var x = document.getElementById("text").value;
@@ -347,6 +351,7 @@ function display_gene()
 {
     document.getElementById("content").innerHTML='';
     document.getElementById("error").innerHTML='';
+    document.getElementById("cy").innerHTML='';
     if(document.getElementById("gene").checked)
     {
         var x = document.getElementById("text").value;
@@ -468,6 +473,7 @@ function diff()
 {
     document.getElementById("content").innerHTML='';
     document.getElementById("error").innerHTML='';
+    document.getElementById("cy").innerHTML='';
         var tt='http://127.0.0.1:8000/diff';
         var xhr = new XMLHttpRequest();
         xhr.open('GET', tt);

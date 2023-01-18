@@ -1,3 +1,5 @@
+//Author:王宇尘
+//Date:2023/1/18
 function display_pathway(){
     document.getElementById("cy").innerHTML='';
     document.getElementById("error").innerHTML='';
