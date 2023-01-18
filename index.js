@@ -120,7 +120,7 @@ function display_disease()
                     // CREATE DYNAMIC TABLE.
                     else{
 
-                    document.getElementById("error").innerHTML=sum+' piece(s) data was found!';
+                    document.getElementById("error").innerHTML=sum+' piece(s) of data was found!';
                     var table = document.createElement("table");
 
                     // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
@@ -130,6 +130,7 @@ function display_disease()
                     for (var i = 0; i < col.length; i++) {
                         var th = document.createElement("th");      // TABLE HEADER.
                         th.innerHTML = col[i];
+                        th.className = "out";
                         tr.appendChild(th);
                     }
 
@@ -141,6 +142,7 @@ function display_disease()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.gene[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -154,6 +156,7 @@ function display_disease()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.meta[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -166,6 +169,7 @@ function display_disease()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.rea[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -178,6 +182,7 @@ function display_disease()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.flag;
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -249,7 +254,7 @@ function display_metabolite()
                     // CREATE DYNAMIC TABLE.
                     else{
 
-                    document.getElementById("error").innerHTML=sum+' piece(s) data was found!';
+                    document.getElementById("error").innerHTML=sum+' piece(s) of data was found!';
                     var table = document.createElement("table");
 
                     // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
@@ -259,6 +264,7 @@ function display_metabolite()
                     for (var i = 0; i < col.length; i++) {
                         var th = document.createElement("th");      // TABLE HEADER.
                         th.innerHTML = col[i];
+                        th.className = "out";
                         tr.appendChild(th);
                     }
 
@@ -270,6 +276,7 @@ function display_metabolite()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.dis[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -283,6 +290,7 @@ function display_metabolite()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.gene[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -295,6 +303,7 @@ function display_metabolite()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.rea[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -307,6 +316,7 @@ function display_metabolite()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.kegg[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -377,7 +387,7 @@ function display_gene()
                     // CREATE DYNAMIC TABLE.
                     else{
 
-                    document.getElementById("error").innerHTML=sum+' piece(s) data was found!';
+                    document.getElementById("error").innerHTML=sum+' piece(s) of data was found!';
                     var table = document.createElement("table");
 
                     // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
@@ -387,6 +397,7 @@ function display_gene()
                     for (var i = 0; i < col.length; i++) {
                         var th = document.createElement("th");      // TABLE HEADER.
                         th.innerHTML = col[i];
+                        th.className = "out";
                         tr.appendChild(th);
                     }
 
@@ -398,6 +409,7 @@ function display_gene()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.dis[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -411,6 +423,7 @@ function display_gene()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.meta[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -423,6 +436,7 @@ function display_gene()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.rea[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -487,7 +501,7 @@ function diff()
                     // CREATE DYNAMIC TABLE.
                     else{
 
-                    document.getElementById("error").innerHTML=l1+' piece(s) data was found!';
+                    document.getElementById("error").innerHTML=l1+' piece(s) of data was found!';
                     var table = document.createElement("table");
 
                     // CREATE HTML TABLE HEADER ROW USING THE EXTRACTED HEADERS ABOVE.
@@ -497,6 +511,7 @@ function diff()
                     for (var i = 0; i < col.length; i++) {
                         var th = document.createElement("th");      // TABLE HEADER.
                         th.innerHTML = col[i];
+                        th.className = "out";
                         tr.appendChild(th);
                     }
 
@@ -508,6 +523,7 @@ function diff()
                         {
                             var th = document.createElement("th");      // TABLE HEADER.
                             th.innerHTML = data.diff[i];
+                            th.className = "x";
                             tr.appendChild(th);
                         }
                         else
@@ -531,4 +547,4 @@ function diff()
 
             }
         }
-    }
+}
